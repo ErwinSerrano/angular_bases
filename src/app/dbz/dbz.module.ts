@@ -8,7 +8,6 @@ import { AddCharacterComponent } from './components/add-character/add-character.
 
 
 
-
 @NgModule({
   declarations: [
     MainPageComponent,
@@ -21,6 +20,6 @@ import { AddCharacterComponent } from './components/add-character/add-character.
   imports: [
     CommonModule,
     FormsModule
-  ],
+  ]
 })
 export class DbzModule { }
